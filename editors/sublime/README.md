@@ -1,6 +1,6 @@
 # Sublime Text Preferences
 
-Preferences that match our [JavaScript convention](https://github.com/iadvize/javascript)
+Preferences that match our [JavaScript convention](https://github.com/iadvize/javascript).
 
 ## Installation
 
