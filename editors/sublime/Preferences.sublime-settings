@@ -1,6 +1,6 @@
 {
   "default_encoding": "UTF-8",
-	"default_line_ending": "unix",
+  "default_line_ending": "unix",
   "detect_indentation": true,
   "shift_tab_unindent": true,
   "tab_size": 4,
