@@ -109,7 +109,6 @@
     "validateLineBreaks": "LF",
     "validateQuoteMarks": "'",
     "validateIndentation": 2,
-    "esnext": true,
     "excludeFiles": [
         "node_modules/**"
     ],
